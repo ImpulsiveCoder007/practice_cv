@@ -1,0 +1,26 @@
+body {
+  background-color: gray;
+}
+h1 {
+  font-size: 100px;
+  color: red;
+}
+
+img:hover {
+  background-color: gold;
+}
+
+.bacon {
+  background-color: red;
+}
+
+.smiley {
+  background-color: green;
+}
+.circular {
+  border-radius: 100%;
+}
+
+#heading {
+  color: blue;
+}
